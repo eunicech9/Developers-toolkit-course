@@ -1,7 +1,7 @@
-# Test Repository
+## nusmoney
+Deposits and loans across multiple banks 
+Filter by customer name
 
-## mid test
-testss
-
-### small test
-Testing
+## Organisation
+Anuflora Systems  
+Leader in Fintech Training
