@@ -2,7 +2,7 @@
 Original doc: https://github.com/anuflora/nusmoney
 
 ## Homework 1
-* Show only single value (deposit-loan) per use in each bank
+* Show only single value (deposit-loan) per user in each bank in the 'Details' section
 * Replace total DEPOSIT and LOAN to a bar chart or pie chart
 * Add a login dialog to only show records of user who logged into the system
   * Made input name not case-sensitive
